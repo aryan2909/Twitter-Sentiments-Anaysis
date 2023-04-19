@@ -2,6 +2,7 @@
 Twitter Sentiment Analysis using Textblob and Tweepy, wrapped with Flask as a web app.
 
 ![Working Demo](https://i.ibb.co/zF95x2H/demo.gif)
+[url=https://ibb.co/T1jT20q][img]https://i.ibb.co/T1jT20q/demo.gif[/img][/url]
 
 ## Installation
 1. Clone/Download this repository.
