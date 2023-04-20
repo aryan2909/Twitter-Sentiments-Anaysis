@@ -5,10 +5,10 @@ from textblob import TextBlob
 
 app = Flask(__name__)
 
-consumer_key = 'pBARm2LcmLAlhtt4kqjWBcZhl'
-consumer_secret = 'lUYVnqckVmK8N4UHn7Szv6A8FCJiFPzQjLHsgdrElayeWgXFtL'
-access_token = '1285991466003619841-abhHIkiR3V5PJfax1jh98hK5cN1wkI'
-access_secret = 'QpQZaRltSUntwQaxTYg4B5iDz2eOBhnGMepZf8G06QwbB'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
